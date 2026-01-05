@@ -1,0 +1,24 @@
+# Python / Jupyter
+
+__pycache__/
+
+*.pyc
+
+.ipynb_checkpoints/
+ 
+# Environment
+
+.env
+
+.venv/
+ 
+# VS Code
+
+.vscode/
+ 
+# Chroma / Vector DBs
+
+CHROMA_DB_ECATS/ 
+
+
+.env

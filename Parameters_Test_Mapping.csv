@@ -1,0 +1,34 @@
+Test_Name,Parameter,Unit,Deviation_LL,Deviation_UL
+SA-EQUIL,Total Surface Area,m²/g,-8.0,8.0
+SA- ZE,Zeolite Surface Area,m²/g,-8.0,8.0
+SA-MX,Matrix Surface Area ,m²/g,-4.0,4.0
+Z/M RATIO,Z/M Ratio,,-0.15,0.15
+3-CF,Coke Factor,,-0.2,0.2
+5-H2-YLD,H₂ Yield,SCFB,-25.0,25.0
+2-GF,Gas Factor,,-0.5,0.5
+NI,Ni,ppm,-200.0,200.0
+V,V,ppm,-350.0,350.0
+NI/V RATIO,Ni/V Ratio,,-0.05,0.05
+NA,Na,wt%,-0.04,0.04
+SB/NI,Sb/Ni Ratio,,-0.05,0.05
+RE2O3,RE₂O₃,wt%,-0.1,0.1
+AL2O3,Al₂O₃,wt%,-1.5,1.5
+CAO,CaO,wt%,-0.02,0.02
+CU,Cu,ppm,-10.0,10.0
+FE,Fe,wt%,-0.05,0.05
+K2O,K₂O,wt%,-0.03,0.03
+MGO,MgO,ppm,-500.0,500.0
+MO,Mo,ppm,-6.0,6.0
+MN,Mn,ppm,-5.0,5.0
+PB,Pb,ppm,-8.0,8.0
+ZNO,ZnO,ppm,-50.0,50.0
+CO,Co,ppm,-10.0,10.0
+P2O5,P₂O₅,wt%,-0.07,0.07
+C-ON-CAT,Carbon,wt%,-0.05,0.05
+ABD@1000,ABD,g/cc,-0.02,0.02
+PV-CENT-RB,Pore Volume,cc/g,-0.02,0.02
+0- 40,0–40,µ,-2.0,2.0
+0- 60,0–60,µ,-4.0,4.0
+0- 80,0–80,µ,-5.0,5.0
+APS-E,APS,µm,-4.0,4.0
+UMB/UMF_PS,Umb/Umf,,-0.12,0.12
