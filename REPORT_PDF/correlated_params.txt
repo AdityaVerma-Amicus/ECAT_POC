@@ -1,0 +1,309 @@
+Sample 41004748 | Unit: CITGO - CORPUS CHRISTI (NEW), TX, US (Unit ID 313) | Type: Ecat | Taken: 2024-10-09 00:00:00 | Received: 2024-10-14 00:00:00 | Lab: C  
+
+Parameter: 0–40 (µ),  
+Sample Number: 41004748,  
+Captured Value: 2.229, Deviation: -0.239,  
+Is Within Limit: true,  
+Last 5 Sample Values: 2.468, 2.578,  
+Correlated Parameters: ,  
+Test_Group: None,  
+Summary: "Typical micropore size distribution; within spec indicates normal zeolite pore maintenance and no significant crushing or coking distortion."  
+
+Parameter: 0–60 (µ),  
+Sample Number: 41004748,  
+Captured Value: 19.79, Deviation: -1.052,  
+Is Within Limit: true,  
+Last 5 Sample Values: 20.842, 21.327,  
+Correlated Parameters: ,  
+Test_Group: None,  
+Summary: "Mesopore system within spec; stability in pore networking suggests adequate ash melting point and support integrity."  
+
+Parameter: 0–80 (µ),  
+Sample Number: 41004748,  
+Captured Value: 43.751, Deviation: -1.610,  
+Is Within Limit: true,  
+Last 5 Sample Values: 45.361, 46.011,  
+Correlated Parameters: ,  
+Test_Group: None,  
+Summary: "Macropore size unaffected; indicates catalyst mechanical integrity and absence of sintering."  
+
+Parameter: Gas Factor (nan),  
+Sample Number: 41004748,  
+Captured Value: 1.66727773, Deviation: -0.628,  
+Is Within Limit: false,  
+Last 5 Sample Values: 2.29572925, 1.96067416,  
+Correlated Parameters: H2 Yield, Ni, Cu, Sb/Ni Ratio,  
+Test_Group: Coke & Hydrogen Selectivity Group,  
+issue_summary: "Gas Factor falls below acceptable lower threshold, indicating reduced hydrogen selectivity or increased coke formation. Low hydrogen yield correlated with elevated SOC (Ni, Cu, Sb/Ni) highlights catalyst deactivation via metal sintering or slagging, compromising FCC throughput."  
+
+Parameter: Coke Factor (nan),  
+Sample Number: 41004748,  
+Captured Value: 1.19761865, Deviation: -0.182,  
+Is Within Limit: true,  
+Last 5 Sample Values: 1.38004265, 1.31372978,  
+Correlated Parameters: Coke Yield, H2 Yield, Ni, V,  
+Test_Group: Coke & Hydrogen Selectivity Group,  
+Summary: "Coke Factor within limits suggests controlled coke deposition; combined with acceptable Coke Yield, indicates catalyst still regenerable."  
+
+Parameter: H₂ Yield (SCFB),  
+Sample Number: 41004748,  
+Captured Value: 95.55706881, Deviation: -29.228,  
+Is Within Limit: false,  
+Last 5 Sample Values: 124.78500434, 118.87195492,  
+Correlated Parameters: Gas Factor, Ni, Cu, Sb/Ni Ratio,  
+Test_Group: Coke & Hydrogen Selectivity Group,  
+issue_summary: "Decline in H₂ Yield signals impending active site blockage or coking. Correlation with elevated Gas Factor underscores competing pathways; metal contaminants (Ni, Cu, Sb/Ni) exacerbate deactivation, threatening FCC productivity."  
+
+Parameter: ABD (g/cc),  
+Sample Number: 41004748,  
+Captured Value: 0.816, Deviation: -0.018,  
+Is Within Limit: true,  
+Last 5 Sample Values: 0.8339999999999999, 0.82,  
+Correlated Parameters: ,  
+Test_Group: None,  
+Summary: "Bulk density within spec implies proper flow and minimal blockage in reactor solids section."  
+
+Parameter: Al₂O₃ (wt%),  
+Sample Number: 41004748,  
+Captured Value: 52.79158, Deviation: -0.530,  
+Is Within Limit: false,  
+Last 5 Sample Values: 49.82718, 53.32167, 49.6831, 53.8245, 50.54328,  
+Correlated Parameters: ,  
+Test_Group: None,  
+issue_summary: "Al₂O₃ concentration exceeds limit, suggesting aggressive leaching or support degradation. High alumina may lead to excessive ash melting, causing slag deposition and potential catalyst deactivation."  
+
+Parameter: APS (µm),  
+Sample Number: 41004748,  
+Captured Value: 85.59, Deviation: 1.525,  
+Is Within Limit: false,  
+Last 5 Sample Values: 84.065, 83.482,  
+Correlated Parameters: Umb/Umf,  
+Test_Group: Physical Properties & Fluidization Group,  
+issue_summary: "Particle size increase beyond limit indicates attrition; elevated APS correlates with smaller UMB/UMF ratio shift, potentially reducing bed fluidization quality and affecting catalyst contact."  
+
+Parameter: CaO (wt%),  
+Sample Number: 41004748,  
+Captured Value: 0.09904, Deviation: -0.001,  
+Is Within Limit: true,  
+Last 5 Sample Values: 0.1923199999999999, 0.1000999999999999, 0.27216, 0.12063, 0.1885699999999999,  
+Correlated Parameters: Fe, Na,  
+Test_Group: Alkali, Alkaline Earth & Poison Group,  
+Summary: "CaO within spec; low alkali levels help maintain catalyst lifetime and aromatization activity."  
+
+Parameter: Co (ppm),  
+Sample Number: 41004748,  
+Captured Value: 23.57444, Deviation: -2.334,  
+Is Within Limit: false,  
+Last 5 Sample Values: 25.80823, 25.90799, 23.15094, 25.16176, 24.91641,  
+Correlated Parameters: ,  
+Test_Group: None,  
+issue_summary: "Excess cobalt indicates potential redox impurity; combined with elevated Ni/V ratios may accelerate catalyst deactivation via heteroatom segregation."  
+
+Parameter: Cu (ppm),  
+Sample Number: 41004748,  
+Captured Value: 18.02063, Deviation: -1.220,  
+Is Within Limit: true,  
+Last 5 Sample Values: 26.72808, 19.2405, 25.87513, 19.85853, 24.39031,  
+Correlated Parameters: H2 Yield, Coke Yield,  
+Test_Group: Metals Contamination & Passivation,  
+Summary: "Copper below limit; along with healthy H2 and moderate Coke yield, indicates limited metal‑induced passivation."  
+
+Parameter: Fe (wt%),  
+Sample Number: 41004748,  
+Captured Value: 0.35676, Deviation: 0.006,  
+Is Within Limit: false,  
+Last 5 Sample Values: 0.46842, 0.35103, 0.4965899999999999, 0.36463, 0.44079,  
+Correlated Parameters: Na, CaO, APS,  
+Test_Group: Metals Contamination & Passivation,  
+issue_summary: "Fe exceeds spec, implying ash sintering risk. Elevated Fe interacts with Na/CaO causing ash melting, while APS increase suggests support breakdown, all contributing to catalyst deactivation."  
+
+Parameter: K₂O (wt%),  
+Sample Number: 41004748,  
+Captured Value: 0.05208, Deviation: -0.001,  
+Is Within Limit: true,  
+Last 5 Sample Values: 0.07929, 0.0533, 0.09517, 0.05969, 0.0821299999999999,  
+Correlated Parameters: Na, MAT,  
+Test_Group: Alkali, Alkaline Earth & Poison Group,  
+Summary: "Potassium within spec; aligned with Na and MAT indicates stable catalyst basicity conducive to cracking activity."  
+
+Parameter: MgO (ppm),  
+Sample Number: 41004748,  
+Captured Value: 29603.61, Deviation: -1332.740,  
+Is Within Limit: false,  
+Last 5 Sample Values: 17642.47, 30936.35, 23585.28, 32913.64, 17196.45,  
+Correlated Parameters: CaO,  
+Test_Group: Alkali, Alkaline Earth & Poison Group,  
+issue_summary: "MgO significantly exceeds limit, pointing to ash composition shift. High MgO can elevate ash slagging tendencies when combined with CaO, potentially impairing catalyst circulation."  
+
+Parameter: Mn (ppm),  
+Sample Number: 41004748,  
+Captured Value: 9.30098, Deviation: -0.956,  
+Is Within Limit: true,  
+Last 5 Sample Values: 21.53576, 10.25711, 32.23981, 11.45386, 21.22355,  
+Correlated Parameters: ,  
+Test_Group: None,  
+Summary: "Manganese concentration within acceptable range; low impact on FCC performance."  
+
+Parameter: Mo (ppm),  
+Sample Number: 41004748,  
+Captured Value: 25.1086, Deviation: -1.479,  
+Is Within Limit: true,  
+Last 5 Sample Values: 39.83416, 26.58715, 40.11855, 27.54121, 40.70987,  
+Correlated Parameters: ,  
+Test_Group: None,  
+Summary: "Molybdenum within spec; negligible influence on cracking operations when present below threshold."  
+
+Parameter: Ni (ppm),  
+Sample Number: 41004748,  
+Captured Value: 676.9043, Deviation: -55.083,  
+Is Within Limit: true,  
+Last 5 Sample Values: 549.9849, 731.9877, 595.9808, 812.3703, 621.217,  
+Correlated Parameters: H2 Yield, Coke Yield, Sb/Ni Ratio, Ni/V Ratio,  
+Test_Group: Metals Contamination & Passivation,  
+Summary: "Nickel within acceptable limits; combined with stable H2 and Coke yields, suggests that Ni‑induced deactivation is under control and catalyst passivation is minimal."  
+
+Parameter: Ni/V Ratio (nan),  
+Sample Number: 41004748,  
+Captured Value: 0.287197456, Deviation: -0.010,  
+Is Within Limit: true,  
+Last 5 Sample Values: 0.3199020607493242, 0.2972526812073859, 0.3428319637828929, 0.2888175114283337, 0.3341505777279565,  
+Correlated Parameters: Ni, V,  
+Test_Group: Metals Contamination & Passivation,  
+Summary: "Ni/V ratio within expected range, indicating balanced metal loading that mitigates excessive carbon deposition and maintains catalytic activity."  
+
+Parameter: P₂O₅ (wt%),  
+Sample Number: 41004748,  
+Captured Value: 0.34543, Deviation: 0.046,  
+Is Within Limit: true,  
+Last 5 Sample Values: 0.4669499999999999, 0.2997699999999999, 0.17427, 0.09733, 0.1486599999999999,  
+Correlated Parameters: Re₂O₃, MAT,  
+Test_Group: Feed & Additive Contaminant Group,  
+Summary: "Phosphorus within limits; aligns with RE₂O₃ and MAT, affirming that additive contamination has not significantly altered acid-base balance."  
+
+Parameter: Pb (ppm),  
+Sample Number: 41004748,  
+Captured Value: 15.86719, Deviation: -0.173,  
+Is Within Limit: false,  
+Last 5 Sample Values: 17.6261, 16.04017, 19.00259, 17.28004, 15.57174,  
+Correlated Parameters: CO,  
+Test_Group: Feed & Additive Contaminant Group,  
+issue_summary: "Lead content exceeds spec, suggesting feedstock contamination or metal catalyst residue. Combined with CO measurement (not shown), this could hint at lead‑induced catalyst poisoning, diminishing cracking efficiency."  
+
+Parameter: Pore Volume (cc/g),  
+Sample Number: 41004748,  
+Captured Value: 0.401, Deviation: -0.001,  
+Is Within Limit: false,  
+Last 5 Sample Values: 0.402, 0.4119999999999999,  
+Correlated Parameters: ,  
+Test_Group: None,  
+issue_summary: "Pore volume exceeds upper limit, implying structural collapse or aggregation of crystallites, which can reduce effective surface area and crack throughput."  
+
+Parameter: RE₂O₃ (wt%),  
+Sample Number: 41004748,  
+Captured Value: 3.2228, Deviation: -0.044,  
+Is Within Limit: false,  
+Last 5 Sample Values: 2.84565, 3.26653, 2.89517, 3.3779, 2.91098,  
+Correlated Parameters: Unit Cell Size (UCS), MAT, Coke Yield,  
+Test_Group: Rare Earth & Structural Selectivity Group,  
+issue_summary: "RE₂O₃ above limit indicates rare‑earth enrichment, potentially shifting crystal lattice and affecting pore structure, which correlates with increased Coke yield and disrupted crystallographic stability."  
+
+Parameter: Zeolite Surface Area (m²/g),  
+Sample Number: 41004748,  
+Captured Value: 54.79108635, Deviation: 2.954,  
+Is Within Limit: false,  
+Last 5 Sample Values: 51.83718003, 48.74497544,  
+Correlated Parameters: V, Na, MAT,  
+Test_Group: Activity & Severity Core Group,  
+issue_summary: "Zeolite surface area reduced below spec; strong correlation with V and MAT indicates metal loading and alkali content are suppressing crystallite surface, signifying catalyst deactivation risk from sintering or coking."  
+
+Parameter: Total Surface Area (m²/g),  
+Sample Number: 41004748,  
+Captured Value: 136.87664146, Deviation: 4.247,  
+Is Within Limit: false,  
+Last 5 Sample Values: 132.6298783, 134.13711478,  
+Correlated Parameters: Zeolite Surface Area, Matrix Surface Area, MAT,  
+Test_Group: Activity & Severity Core Group,  
+issue_summary: "Overall surface area lowered, reflecting combined loss in zeolite and matrix porosity. Correlation with MAT suggests that metal aerosol deposition or ash buildup is impeding active site exposure, jeopardizing catalytic performance."  
+
+Parameter: Matrix Surface Area  (m²/g),  
+Sample Number: 41004748,  
+Captured Value: 82.08515718, Deviation: 1.292,  
+Is Within Limit: true,  
+Last 5 Sample Values: 80.79269827999998, 85.39213934999998,  
+Correlated Parameters: MAT, Z/M Ratio,  
+Test_Group: Activity & Severity Core Group,  
+Summary: "Matrix surface area acceptable; stable Z/M ratio interaction indicates that support integrity is maintained, supporting catalyst dispersion."  
+
+Parameter: Sb/Ni Ratio (nan),  
+Sample Number: 41004748,  
+Captured Value: 0.0, Deviation: 0.0,  
+Is Within Limit: false,  
+Last 5 Sample Values: 0.0, 0.0, 0.0103149128294065, 0.0, 0.0,  
+Correlated Parameters: Ni, H2 Yield, Coke Yield,  
+Test_Group: Metals Contamination & Passivation,  
+issue_summary: "Zero Sb/Ni ratio driven by lack of detectable Sb despite high Ni; the disparity may hide potential for Sb‑induced catalyst poisoning unperceived, with Ni alone risking coke formation as indicated by elevated Coke Yield."  
+
+Parameter: Umb/Umf (nan),  
+Sample Number: 41004748,  
+Captured Value: 2.773, Deviation: -0.050,  
+Is Within Limit: true,  
+Last 5 Sample Values: 2.823, 2.866,  
+Correlated Parameters: APS,  
+Test_Group: Physical Properties & Fluidization Group,  
+Summary: "Umb/Umf within norm; aligns with APS indicating that bed fluidization dynamics are intact and likely unaffected by attrition."  
+
+Parameter: V (ppm),  
+Sample Number: 41004748,  
+Captured Value: 2356.93, Deviation: -105.580,  
+Is Within Limit: true,  
+Last 5 Sample Values: 1719.229, 2462.51, 1738.405, 2812.746, 1859.093,  
+Correlated Parameters: Zeolite Surface Area, MAT, Ni/V Ratio,  
+Test_Group: Metals Contamination & Passivation,  
+Summary: "Vanadium below limit; adequate deactivation risk, corroborated by stable Zeolite surface area and Ni/V ratio."  
+
+Parameter: Z/M Ratio (nan),  
+Sample Number: 41004748,  
+Captured Value: 0.667490789, Deviation: 0.026,  
+Is Within Limit: false,  
+Last 5 Sample Values: 0.641607238, 0.570836798,  
+Correlated Parameters: MAT, Coke Yield,  
+Test_Group: Activity & Severity Core Group,  
+issue_summary: "Z/M ratio below spec; indicates lean zeolite loading relative to metal content. Combined with elevated Coke Yield, this implies metal enrichment dominates the catalyst bed, promoting coke deposition and reducing active sites."  
+
+Parameter: ZnO (ppm),  
+Sample Number: 41004748,  
+Captured Value: 169.3285, Deviation: -11.737,  
+Is Within Limit: true,  
+Last 5 Sample Values: 172.3968, 181.0656, 225.6866, 217.7186, 173.0685,  
+Correlated Parameters: APS,  
+Test_Group: Feed & Additive Contaminant Group,  
+Summary: "Zinc within limit; no adverse influence on activity or attrition observed."  
+
+Below are the key diagnostics for each deviating parameter:
+
+*Gas Factor* – Decreased H₂ yield paired with low gas factor suggests increased coke/metal deactivation.  
+*Coke Factor* – Within spec, coke formation still manageable.  
+*H₂ Yield* – Strongly correlated with Metal contaminants; low value flags catalyst aging.  
+*Al₂O₃* – Excess alumina points to support degradation.  
+*APS* – Particle size growth detrimental to fluidization.  
+*Co* – Cobalt contamination may accelerate heteroatom segregation.  
+*Cu* – Fine within spec, minimal impact.  
+*Fe* – Elevated iron drives ash sintering.  
+*K₂O* – Within spec, supporting basicity.  
+*MgO* – High magnesium promotes slagging.  
+*Mn* – Acceptable.  
+*Mo* – Acceptable.  
+*Ni* – Acceptable load, stability indicated.  
+*Ni/V Ratio* – Normal, good metal balance.  
+*P₂O₅* – Acceptable.  
+*Pb* – Lead excess indicates possible feed contamination.  
+*Pore Volume* – Over‑volume points to structural collapse.  
+*RE₂O₃* – Rare earth overload affects lattice stability.  
+*Zeolite Surface Area* – Decreased exposure implies sintering/coking.  
+*Total Surface Area* – Loss of overall active surface area.  
+*Matrix Surface Area* – Healthy.  
+*Sb/Ni Ratio* – Missing Sb may conceal risk.  
+*Umb/Umf* – Good fluidization.  
+*V* – Safe level.  
+*Z/M Ratio* – Lean zeolite hosting high metal content, raising coke risk.  
+*ZnO* – Normal.

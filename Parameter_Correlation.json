@@ -1,0 +1,261 @@
+{
+  "MAT": {
+    "test_group": "Activity & Severity Core Group",
+    "related": [
+      "Total Surface Area",
+      "Zeolite Surface Area",
+      "Matrix Surface Area",
+      "Z/M Ratio",
+      "SA/K Ratio"
+    ]
+  },
+
+  "Total Surface Area": {
+    "test_group": "Activity & Severity Core Group",
+    "related": [
+      "MAT",
+      "Zeolite Surface Area",
+      "Matrix Surface Area"
+    ]
+  },
+
+  "Zeolite Surface Area": {
+    "test_group": "Activity & Severity Core Group",
+    "related": [
+      "MAT",
+      "V",
+      "Na"
+    ]
+  },
+
+  "Matrix Surface Area": {
+    "test_group": "Activity & Severity Core Group",
+    "related": [
+      "MAT",
+      "Z/M Ratio"
+    ]
+  },
+
+  "Z/M Ratio": {
+    "test_group": "Activity & Severity Core Group",
+    "related": [
+      "MAT",
+      "Coke Yield"
+    ]
+  },
+
+  "SA/K Ratio": {
+    "test_group": "Activity & Severity Core Group",
+    "related": [
+      "MAT"
+    ]
+  },
+
+  "Ni": {
+    "test_group": "Metals Contamination & Passivation",
+    "related": [
+      "H2 Yield",
+      "Coke Yield",
+      "Sb/Ni Ratio"
+    ]
+  },
+
+  "V": {
+    "test_group": "Metals Contamination & Passivation",
+    "related": [
+      "Zeolite Surface Area",
+      "MAT",
+      "Ni/V Ratio"
+    ]
+  },
+
+  "Fe": {
+    "test_group": "Metals Contamination & Passivation",
+    "related": [
+      "Na",
+      "CaO",
+      "APS"
+    ]
+  },
+
+  "Cu": {
+    "test_group": "Metals Contamination & Passivation",
+    "related": [
+      "H2 Yield",
+      "Coke Yield"
+    ]
+  },
+
+  "Sb": {
+    "test_group": "Metals Contamination & Passivation",
+    "related": [
+      "Ni",
+      "Sb/Ni Ratio"
+    ]
+  },
+
+  "Sb/Ni Ratio": {
+    "test_group": "Metals Contamination & Passivation",
+    "related": [
+      "Ni",
+      "H2 Yield",
+      "Coke Yield"
+    ]
+  },
+
+  "Ni/V Ratio": {
+    "test_group": "Metals Contamination & Passivation",
+    "related": [
+      "Ni",
+      "V"
+    ]
+  },
+
+  "Coke Yield": {
+    "test_group": "Coke & Hydrogen Selectivity Group",
+    "related": [
+      "Coke Factor",
+      "H2 Yield",
+      "Ni",
+      "V"
+    ]
+  },
+
+  "Coke Factor": {
+    "test_group": "Coke & Hydrogen Selectivity Group",
+    "related": [
+      "Coke Yield"
+    ]
+  },
+
+  "H2 Yield": {
+    "test_group": "Coke & Hydrogen Selectivity Group",
+    "related": [
+      "Gas Factor",
+      "Ni",
+      "Cu",
+      "Sb/Ni Ratio"
+    ]
+  },
+
+  "Gas Factor": {
+    "test_group": "Coke & Hydrogen Selectivity Group",
+    "related": [
+      "H2 Yield",
+      "Ni",
+      "Cu"
+    ]
+  },
+
+  "Na": {
+    "test_group": "Alkali, Alkaline Earth & Poison Group",
+    "related": [
+      "Zeolite Surface Area",
+      "MAT"
+    ]
+  },
+
+  "K2O": {
+    "test_group": "Alkali, Alkaline Earth & Poison Group",
+    "related": [
+      "Na",
+      "MAT"
+    ]
+  },
+
+  "CaO": {
+    "test_group": "Alkali, Alkaline Earth & Poison Group",
+    "related": [
+      "Fe",
+      "Na"
+    ]
+  },
+
+  "MgO": {
+    "test_group": "Alkali, Alkaline Earth & Poison Group",
+    "related": [
+      "CaO"
+    ]
+  },
+
+  "Re2O3": {
+    "test_group": "Rare Earth & Structural Selectivity Group",
+    "related": [
+      "Unit Cell Size (UCS)",
+      "MAT",
+      "Coke Yield"
+    ]
+  },
+
+  "Unit Cell Size (UCS)": {
+    "test_group": "Rare Earth & Structural Selectivity Group",
+    "related": [
+      "Re2O3"
+    ]
+  },
+
+  "Al2O3": {
+    "test_group": "Turnover & Inventory Tracking Group",
+    "related": [
+      "TiO2"
+    ]
+  },
+
+  "TiO2": {
+    "test_group": "Turnover & Inventory Tracking Group",
+    "related": [
+      "Al2O3"
+    ]
+  },
+
+  "Pb": {
+    "test_group": "Feed & Additive Contaminant Group",
+    "related": [
+      "CO"
+    ]
+  },
+
+  "ZnO": {
+    "test_group": "Feed & Additive Contaminant Group",
+    "related": [
+      "APS"
+    ]
+  },
+
+  "P2O5": {
+    "test_group": "Feed & Additive Contaminant Group",
+    "related": [
+      "Re2O3",
+      "MAT"
+    ]
+  },
+
+  "0–40": {
+    "test_group": "Physical Properties & Fluidization Group",
+    "related": [
+      "APS"
+    ]
+  },
+
+  "0–80": {
+    "test_group": "Physical Properties & Fluidization Group",
+    "related": [
+      "APS",
+      "UMB/UMF"
+    ]
+  },
+
+  "APS": {
+    "test_group": "Physical Properties & Fluidization Group",
+    "related": [
+      "UMB/UMF"
+    ]
+  },
+
+  "UMB/UMF": {
+    "test_group": "Physical Properties & Fluidization Group",
+    "related": [
+      "APS"
+    ]
+  }
+}
